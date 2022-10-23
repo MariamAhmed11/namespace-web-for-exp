@@ -1,0 +1,250 @@
+.header{
+    background-color: black;
+    width: 100%;
+    height: 35px;
+    margin-left: -8px;
+    margin-right: -10px;
+   
+    color :white;
+  
+   
+}
+.vv{
+    margin-left: 80%;
+    margin-top: -40px;
+   
+    
+}
+
+ul{
+    display:flex ;
+    margin-top:10px;
+    padding-top: 5px;
+
+}
+ ul li{
+   
+    
+    list-style: none;
+    margin-right: 10px;
+    padding-top: 5px;
+}
+
+
+   .header2{
+    height: 80px;
+    background-color: rgb(211, 218, 223);
+    
+    box-sizing: border-box;
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 1vw 8vw;
+    align-items: center;
+    margin-left:-8px ;
+    padding-right: 10px;
+    font-size: 25px;
+
+    
+    
+}
+
+ ul{
+    display:flex ;
+    margin-top:15px;
+    
+}
+ ul li{
+   
+    
+    list-style: none;
+    margin-left: 40px;;
+}
+.href{
+    
+   
+    color:black;
+    text-decoration: none;
+    line-height: 50px;
+    font-size: 18px;
+    
+
+}
+
+.logo{
+    width: 150px;
+    margin-left: -80px;
+   
+    
+}
+.header3{
+    width:100%; 
+    margin-left: -8px;
+    height:35px ;
+    color:white;
+   
+    background-color: rgb(199, 69, 182);
+    display: inline-block;
+}
+.header4{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(252, 248, 248);
+    margin-top: 0px;
+    padding-top: 16px;
+    padding-left: 15px;
+    font-size: 20px;
+    color: rgb(175, 212, 245);
+}
+#blue{
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    color:rgb(27, 25, 25)
+}
+#green{
+    font-size: 35px;
+    margin-top: -60px;
+    text-align: center;
+    color:rgb(27, 25, 25)
+}
+#a{
+    width: 50%;
+    height: 35px;
+    margin-left: 25%;
+    padding-left: 7px;
+    
+}
+.Box{
+    width: 200px;
+    height: 150px;
+    background-color: white;
+    box-shadow: 0 0 0 0.8px#6d6e70;
+    padding: 20px;
+    border-radius: 8px;
+    margin-right: 50px;
+    
+    padding: 20px;
+    
+}
+
+#mainbox1{
+     display: flex; 
+    margin-left: 30px;
+    justify-content: center;
+    margin-top:50px ;
+}
+.mainbox2{
+    display: flex; 
+   margin-left: 30px;
+   justify-content: center;
+   margin-top:50px ;
+}
+.mainbox3{
+    display: flex; 
+    margin-left: 30px;
+    justify-content: center;
+    margin-top:50px ;
+
+}
+#xx{
+    margin-bottom: 20px;
+}
+.btn{
+    width: 101px;
+    height: 40px;
+    background-color: rgb(241, 93, 40);
+    margin-left: -5px;
+    border:none;
+    border-top-right-radius:5px;
+    border-bottom-right-radius:5px;
+    color:white;
+    font-size: 15px;
+}
+.Best{
+    margin-left: -5px;
+    border-top: 1px solid grey ;
+    border-bottom:1px solid grey;
+    color:red;
+    padding: 10px;
+    border-left: none;
+    border-right: none;
+    background-color: white;
+   
+    height: 41px;
+}
+.all{
+    display: flex;
+    margin-left:400px;
+    margin-top: 20px;
+
+}
+.btnmid{
+    width: 135px;
+    height: 33px;
+    margin-top: 10px;
+    
+}
+.discoverbtn{
+    background-color:  rgb(241, 93, 40);
+    width: 20%;
+    height: 45px;
+    margin-left:40%;
+    margin-top: 20px;
+    border :1px solid rgb(241, 93, 40);
+    color:white;
+    padding-top: 5px;
+    border-radius:7px;
+    font-size:15px;
+    
+
+
+}
+
+.background1{
+    background-color: rgb(236, 238, 240);
+
+}
+.pp{
+    width: 300px;
+    
+    background-color: white;
+     padding: 20px;
+    border-radius: 6px;
+    margin-left: 150px;
+    
+}
+.allicons{
+    display:flex;
+    padding-right:70px;
+}
+.btn1{
+    margin-left: 45%;
+    color: white;
+    background-color: #6d6e70;
+    font-size: 1rem;
+    width: 150px;
+    border:1px solid #6d6e70;
+    border-radius: 5px;
+    height: 45px;
+}
+.spn{
+    background-color: rgb(221, 17, 2);
+    margin-top:-40px;
+    margin-left: 50px;
+    color:white;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 5px;
+    font-weight: bold;
+    font-size: 1rem;
+}
+.blue{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(36, 36, 206);
+    text-align: left;
+}
